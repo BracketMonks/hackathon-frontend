@@ -15,8 +15,4 @@
 4. Gulp    ( npm install gulp -g )
 
 
-## Git crash course ( comming soon )
-
-## Gulp crash course ( comming soon )
-
-## Scss crash course ( comming soon )
+#### I will move the all the crash courses in the wiki section of this repo
