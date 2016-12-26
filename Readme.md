@@ -13,6 +13,7 @@
 2. Ruby    ( https://www.ruby-lang.org/en/downloads/ )
 3. Scss    ( http://sass-lang.com/install )
 4. Gulp    ( npm install gulp -g )
+5. Git     ( https://git-scm.com/book/en/v2/Getting-Started-Installing-Git )
 
 
-#### I will move the all the crash courses in the wiki section of this repo
+#### Check the wiki section for crash courses and etc 
